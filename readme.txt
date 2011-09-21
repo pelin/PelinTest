@@ -7,3 +7,6 @@ nu har jag checkat in en första gång. kolla på diff nu då jag ändrar "git diff".
 igen
 
 ändring i task1
+
+ny ändring i master. enbart lokal ändring. jämföra mot github: git diff master..origin/master
+
