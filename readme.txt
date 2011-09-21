@@ -4,3 +4,5 @@ modifierar och testar "git status -s"
 
 nu har jag checkat in en första gång. kolla på diff nu då jag ändrar "git diff".
 
+igen
+
